@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='Kickbase_Analysis',
     version='0.0.2',
-    packages=['kickbase_analysis'],
+    packages=['kickbase_analysis', 'kickbase_analysis.models'],
     url='https://github.com/kevinskyba/kickbase-analysis',
     license='MIT',
     author='kevinskyba',
