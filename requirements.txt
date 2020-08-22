@@ -1,2 +1,2 @@
 setuptools~=49.6.0
-kickbase_api==0.0.6
+kickbase_api==0.0.7
